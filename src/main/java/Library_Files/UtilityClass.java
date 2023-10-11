@@ -16,11 +16,7 @@ import org.testng.annotations.Test;
 
 public class UtilityClass 
 {
-	//Name: Mrinalini
-		//Date: 13/9/2023
-		//Day: Wed
-		//To fetch data from PF
-		
+	 
 
 	@Test								//Username
 	public static String getDataFromPF(String key) throws IOException

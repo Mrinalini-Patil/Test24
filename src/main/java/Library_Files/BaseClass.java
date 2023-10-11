@@ -12,7 +12,7 @@ public class BaseClass
 	public void InitializeBrowser()
 	{
 		
-		
+		//created by Mrinalini
 		System.setProperty("webdriver.Chrome.driver", "C:\\mrinalini\\selenium\\chromeWin_32//chromedriver.exe");
 		driver = new ChromeDriver();
 		
